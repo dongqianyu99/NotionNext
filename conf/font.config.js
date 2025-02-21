@@ -20,7 +20,7 @@ module.exports = {
   FONT_SANS: [
     // '"LXGW WenKai"',
     // 'zsft-gj',
-    'Montserrat'
+    'Montserrat',
     'Arial',
     '"PingFang SC"',
     '-apple-system',
