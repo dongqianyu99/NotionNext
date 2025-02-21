@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "zsft-gj";
+   src: url('https://static.zeoseven.com/zsft/gj/main.woff2') format('woff2'),
+       url('https://static-host.zeoseven.com/zsft/gj/main.woff2') format('woff2');
+   font-display: swap;
+}
+
+
+body {
+   font-family: "zsft-gj";
+   font-weight: normal;
+}
