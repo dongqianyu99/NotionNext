@@ -18,7 +18,8 @@ module.exports = {
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [
     // '"LXGW WenKai"',
-    'zsft-gj',
+    // 'zsft-gj',
+    'Arial',
     '"PingFang SC"',
     '-apple-system',
     'BlinkMacSystemFont',
@@ -32,20 +33,19 @@ module.exports = {
     '"Helvetica Neue"',
     'Helvetica',
     '"Source Han Sans SC"',
-    'Arial',
     'sans-serif',
     '"Apple Color Emoji"'
   ],
   // 衬线字体 例如'"LXGW WenKai"'
   FONT_SERIF: [
     // '"LXGW WenKai"',
-    'zsft-gj',
+    // 'zsft-gj',
+    'serif',
     'Bitter',
     '"Noto Serif SC"',
     'SimSun',
     '"Times New Roman"',
     'Times',
-    'serif',
     '"Segoe UI Emoji"',
     '"Segoe UI Symbol"',
     '"Apple Color Emoji"'
